@@ -1,5 +1,5 @@
 ## 💫 About Me
 I’m Nicole, a data analytics enthusiast based in Panama.<br><br>I’m working on regional reporting and insights for decision-making, while exploring AI tools to enhance data workflows. I also enjoy working with open data to understand what’s happening across Latin America.<br><br>I’m interested in developing projects that drive positive impact in socio-economic development, particularly in public affairs, international trade, and efforts to close education gaps.<br><br>Always learning, always improving, and always finding ways to make things and days a little better.<br><br>Feel free to reach out :)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
