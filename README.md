@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a data-driven professional with 3+ years of experience working on analytics, dashboards, and process automation across Latin America. Lately, I’ve been focused on building solutions that make data actually useful for decision-making and improving workflows across teams.
+I’ve been focused on building solutions that make data actually useful for decision-making and improving workflows across teams.
 
 Right now, I’m working on projects involving data analytics and automation, while also exploring how AI tools like ChatGPT and Copilot can make analysis and documentation more efficient. I’ve also been diving deeper into open data sources (like APIs) to generate regional insights.
 
